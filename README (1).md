@@ -40,12 +40,4 @@ MIT — feel free to use, modify, and share!
 
 ---
 
-## 💻 voidcompile
-Stay updated with daily Python & AI projects on our channel:
-
-📢 [github: @voidcompile](https://github.com/voidcompile)
-📢 [Telegram: @voidcompile](https://t.me/voidcompile)
-📢 [youtube: @voidcompile](https://www.youtube.com/@voidcompile)
-📢 [email: voidcompile@gmail.com]
-
 
